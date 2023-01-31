@@ -1,5 +1,6 @@
 "use client";
 
+import { chakraCustomTheme } from "@/lib/theme";
 import { ChakraProvider } from "@chakra-ui/react";
 import "./globals.css";
 
@@ -16,7 +17,7 @@ export default function RootLayout({
       */}
       <head />
       <body>
-        <ChakraProvider>{children}</ChakraProvider>
+        <ChakraProvider theme={chakraCustomTheme}>{children}</ChakraProvider>
       </body>
     </html>
   );
