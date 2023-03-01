@@ -1525,10 +1525,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/font@npm:13.2.1":
-  version: 13.2.1
-  resolution: "@next/font@npm:13.2.1"
-  checksum: 6231ca2d3fc887c0dd4e25ae8cebb090c477c6fc980b96b56f43b2ad6b989c9f588490ae680fc578b5584ae3b18a40d129c27b642afe9cfc4a953ea43145b1ee
+"@next/font@npm:13.2.2":
+  version: 13.2.2
+  resolution: "@next/font@npm:13.2.2"
+  checksum: 6b0e0081c0c1eef6c44f1c4b54b7e3953a89c2eac97ec99fdda96c10f9637d21e55cf32d784c5a58399473304557e558643aee43ebdc652500e07241f2b41160
   languageName: node
   linkType: hard
 
@@ -3732,7 +3732,7 @@ __metadata:
     "@chakra-ui/react": ^2.5.1
     "@emotion/react": ^11.10.6
     "@emotion/styled": ^11.10.6
-    "@next/font": 13.2.1
+    "@next/font": 13.2.2
     "@types/node": 18.14.2
     "@types/react": 18.0.28
     "@types/react-dom": 18.0.11
